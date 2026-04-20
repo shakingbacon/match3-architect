@@ -26,7 +26,6 @@
   "bundle": {
       "active": true,
       "targets": ["nsis", "dmg"], // Explicitly ask for EXE and DMG
-      "identifier": "com.yhp.match3.tool", 
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",
